@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    margin-top: 17%;
+    background-color:rgb(125, 213, 248);
+}
+h1{
+    color: white;
+}
+ .des{
+     position: absolute;
+     left: 50%;
+     top:45%;
+     transform:translate(-50%,-50%);
+     background : black;
+     border-radius: 1rem;
+     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+ }
+
+.bmi{
+    margin: auto;
+}   
+button{
+    margin-top: 0%;
+    border-radius: 100px;
+    padding: 2%;
+    margin-bottom: 2rem;
+}
+button:hover{
+    background-color: black;
+    color:white;
+}
+input{
+    padding: 4%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
